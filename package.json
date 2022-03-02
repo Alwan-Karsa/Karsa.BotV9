@@ -1,7 +1,7 @@
 {
-  "name": "KurrXd",
+  "name": "Alwan Karsa XD",
   "version": "0.0.1",
-  "description": "KurrXd",
+  "description": "Alwan Karsa XD",
   "main": "node index",
   "directories": {
     "lib": "lib"
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "KurrXd",
+  "author": "Alwan Karsa XD",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.3",
